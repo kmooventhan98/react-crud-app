@@ -1,0 +1,8 @@
+/* src/components/ItemList.module.css */
+.itemListContainer {
+  margin: 20px;
+}
+
+.listItem {
+  margin-bottom: 10px;
+}
